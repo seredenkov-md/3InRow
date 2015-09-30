@@ -1,0 +1,15 @@
+body {
+    font: normal 15px arial, sans-serif;
+    color: #663b39;
+    background: #999;
+    text-align: center;
+}
+
+button {
+    color: #444;
+    margin: 10px;
+}
+
+canvas {
+    border: 20px solid #555;
+}
